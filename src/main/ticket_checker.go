@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"log"
-	"time"
-	"net/smtp"
 	"github.com/gocolly/colly"
+	"log"
+	"net/smtp"
+	"time"
 )
 
 // sendEmail sends a notification email.
